@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471954598696",
+    "project_id": "recuperacaofinal-17ffd",
+    "storage_bucket": "recuperacaofinal-17ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471954598696:android:b574cf69ad55f7a1b17e1d",
+        "android_client_info": {
+          "package_name": "com.example.recuperacaofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471954598696-17oms5l0sjd16b9eifoahv4t0jo58f28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFmygjTnFLXQiWyAww_3uKPkt1ZhfepHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471954598696-17oms5l0sjd16b9eifoahv4t0jo58f28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

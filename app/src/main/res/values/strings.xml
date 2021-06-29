@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecuperacaoFinal</string>
+    <string name="google_sing_in">Google sing in</string>
+    <string name="google_sign_in">Google sign-in</string>
+    <string name="add_photo">Add photo</string>
+    <string name="picture_taken">Picture taken</string>
+    <string name="take_picture">Take picture</string>
+    <string name="save">Save</string>
+    <string name="user_image">user image</string>
+    <string name="user">user</string>
+    <string name="take_photo">Take photo</string>
+    <string name="welcome">Welcome!</string>
+    <string name="gallery">Gallery</string>
+</resources>
